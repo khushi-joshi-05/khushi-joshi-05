@@ -6,13 +6,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khushi-joshi-05" alt="khushi-joshi-05" /></a> </p>
 
-- 🌱 I’m currently learning **React.js and MongoDB**
 
-- 👯 I’m also Project Admin at GSSOC for [foodies-website](https://github.com/khushi-joshi-05/Food-ordering-website)
+-  All of my projects are available at [https://github.com/khushi-joshi-05](https://github.com/khushi-joshi-05)
 
-- 👨‍💻 All of my projects are available at [https://github.com/khushi-joshi-05](https://github.com/khushi-joshi-05)
-
-- 📫 How to reach me **joshikhushi0005@gmail.com**
+-  Reach me **joshikhushi0005@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
