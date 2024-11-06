@@ -14,7 +14,7 @@
 <h2>Hacktoberfest Badges </h2>
 
   [![An image of @khushijoshi05's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/khushijoshi05)](https://holopin.io/@khushijoshi05)
-
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/khushi-joshi-95a587256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khushi-joshi-95a587256" height="30" width="40" /></a>
