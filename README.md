@@ -1,15 +1,42 @@
 <h1 align="center">Hi, I'm Khushi Joshi</h1>
-<h3 align="center">A developer and a programmer exploring ML/ Data Science</h3>
-<!-- <img align="right" alt="coding" width=400 src=" -->
+<h3 align="center">A Developer and Programmer Exploring ML, Data Science, and Cybersecurity</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khushi-joshi-05&label=Profile%20views&color=0e75b6&style=flat" alt="khushi-joshi-05" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=khushi-joshi-05&label=Profile%20views&color=0e75b6&style=flat" alt="khushi-joshi-05" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khushi-joshi-05" alt="khushi-joshi-05" /></a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=khushi-joshi-05&theme=algolia" alt="khushi-joshi-05" />
+  </a>
+</p>
 
+---
 
--  All of my projects are available at [https://github.com/khushi-joshi-05](https://github.com/khushi-joshi-05)
+### 🏆 Achievements & Roles  
+- **Project Admin** at **GSSoC 2024** (May–Aug) — Ranked among **Top 50** contributors, received swags.  
+- **Mentor** at **GSSoC 2024** (Oct) — Ranked among **Top 50** mentors.  
+- **Intern** at **AICTE (Edunet, co-powered by Microsoft & SAP)** (Dec 2024 – Jan 2025) — Built a **Human Pose Detection System**.  
+- **Cybersecurity Intern** at **Power Finance Corporation** (Jul – Aug 2025) — Worked as a **Security Analyst** learning deep concepts in cybersecurity.  
 
--  Reach me **joshikhushi0005@gmail.com**
+---
+
+### 💻 Projects  
+- All my projects are available on my GitHub: [**khushi-joshi-05**](https://github.com/khushi-joshi-05)  
+
+---
+
+### 📫 How to reach me  
+- **Email:** joshikhushi0005@gmail.com  
+
+---
+
+### 🚀 Tech Stack & Interests  
+- **Languages:** Python, Java, C++  
+- **Domains:** Machine Learning, Data Science, Cybersecurity, Web Development  
+- **Tools & Platforms:** Git, GitHub, VS Code, Jupyter, Power BI  
+
+---
 
 <h2>Hacktoberfest Badges </h2>
 
