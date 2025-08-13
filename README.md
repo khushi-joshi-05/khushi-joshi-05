@@ -21,10 +21,10 @@
 
 ---
 
-### 📫 How to reach me  
+### 📫 Reach out to me
 - **Email:** joshikhushi0005@gmail.com  
 
----
+
 
 <h2>Hacktoberfest Badges </h2>
 
